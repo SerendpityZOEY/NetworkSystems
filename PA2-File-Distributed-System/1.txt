@@ -1,0 +1,4 @@
+This is programming assignment 2 for netowrk systems.
+The bojective is to create a distributed file system for reliable and secure file storage.
+Here is the introduction to a distributed file system(DFS):
+A DFS is a client/server-based application that allows client to store and retrieve files on multiple servers. One of the feature of Distributed file system is that each file can be divided in to pieces and stored on different servers.
